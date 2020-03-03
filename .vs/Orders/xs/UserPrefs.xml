@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8CCF5101-B419-4ECE-A965-75DF91378084}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Orders/Controllers/OrderStatusController.cs">
+    <Files>
+      <File FileName="Orders/Models/Orders.cs" Line="4" Column="27" />
+      <File FileName="Orders/Models/OrdersContext.cs" Line="13" Column="27" />
+      <File FileName="Orders/Startup.cs" Line="34" Column="17" />
+      <File FileName="Orders/Controllers/OrderStatusController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Orders" expanded="True">
+            <Node name="Orders" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="OrderStatusController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Orders PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
